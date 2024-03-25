@@ -1,0 +1,13 @@
+E:\.net\winform\staff-management\staff-management\bin\Debug\NHANVIEN.mdf
+E:\.net\winform\staff-management\staff-management\bin\Debug\NHANVIEN_log.ldf
+E:\.net\winform\staff-management\staff-management\bin\Debug\staff-management.exe.config
+E:\.net\winform\staff-management\staff-management\bin\Debug\staff-management.exe
+E:\.net\winform\staff-management\staff-management\bin\Debug\staff-management.pdb
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff-management.csproj.AssemblyReference.cache
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff_management.frm_DangNhap.resources
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff_management.frm_QLNV.resources
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff_management.Properties.Resources.resources
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff-management.csproj.GenerateResource.cache
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff-management.csproj.CoreCompileInputs.cache
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff-management.exe
+E:\.net\winform\staff-management\staff-management\obj\Debug\staff-management.pdb
